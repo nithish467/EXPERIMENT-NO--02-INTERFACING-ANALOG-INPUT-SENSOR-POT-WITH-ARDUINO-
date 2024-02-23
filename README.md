@@ -136,4 +136,5 @@ void loop()
 
 
 
+
 **RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
